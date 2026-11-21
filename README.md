@@ -1,3 +1,5 @@
+![Equipo Sharvis](assets/equipo-sharvis.webp)
+
 # QuantumJam 2026 — Disociación de H₄ con VQE
 
 Solución al desafío de [QuantumJam 2026](https://quantumjam.com.ar/challenge): calcular con VQE la curva de energía de una cadena lineal de cuatro hidrógenos (base STO-3G), obtener $R_e$ y $D_e$, y ganarle a CCSD en la zona estirada ($d \geq 1{,}8$ Å).
